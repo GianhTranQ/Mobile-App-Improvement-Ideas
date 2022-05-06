@@ -37,4 +37,4 @@ The data layer is made of repositories that each can contain zero to many data s
 ## Technical advice
 - Strong type language: migrate to Type Script (TypeScript is a language which extends JavaScript by adding type definitions, much like Flow. While React Native is built in Flow, it supports both TypeScript and Flow by default) refer [here](https://reactnative.dev/blog/2018/05/07/using-typescript-with-react-native)
 - Apply Repository pattern for Data layer
-- Use a state container like Redux for UI later
+- Use a state container like Redux for UI layer
